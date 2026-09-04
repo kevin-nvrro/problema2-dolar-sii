@@ -11,7 +11,7 @@ problema2-dolar-sii/
 ├── requirements.txt         <- numpy, matplotlib
 ├── data/
 │   └── dolar_observado_sii_2022_2025.csv
-├── SIC/
+├── src/
 │   ├── cargar_datos.py      <- carga el CSV con numpy (np.genfromtxt)
 │   ├── errores.py           <- error absoluto, relativo y propagado entre puntos
 │   ├── anualidad.py         <- variación y error año a año
